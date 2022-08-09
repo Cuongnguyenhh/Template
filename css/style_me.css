@@ -1,0 +1,24 @@
+.helo{
+    color: white;
+    margin-top: 5px;
+    margin-right: 15px;
+    font-weight: bold;
+    text-decoration:underline;
+    font-size: large;
+    
+}
+.logout{
+    margin-top: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 15px;
+}
+.admin{
+    color: rgb(17, 152, 190);
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: large;
+    margin-right: 15px;
+
+}

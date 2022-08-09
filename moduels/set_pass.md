@@ -1,0 +1,1 @@
+INSERT INTO `user` (`id`, `name`, `pass`, `email`, `create_time`, `type`, `status`) VALUES (NULL, 'Phu Cuong', MD5('admin'), 'phucuong200@gmail.com', '', '0', '1');
