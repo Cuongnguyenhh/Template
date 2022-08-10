@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <?php 
-                    echo '<div class="helo" >'.$_SESSION['username'].'</div>';
+                    echo '<a href="./change_pass.php"><div class="helo" >'.$_SESSION['username'].'</div></a>';
                     ?>
                     <a class="admin" href="../admin/admin.php">Web Admin</a>
                     <a class="logout" href="../moduels/logout.php">logout</a> 
